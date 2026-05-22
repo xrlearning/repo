@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: e658a5b06cd960348a9eb0592907f8cf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\gornje_kuciste_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\gornje_kuciste_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\Vijci_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\Vijci_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\donje_kuciste_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\donje_kuciste_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\donji_lezaj_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\donji_lezaj_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\stator_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\stator_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\gornji_lezaj_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\gornji_lezaj_cutset-1.bin
+  - type: 0
+    originalUri: Assets\sklop_step_motor_cutset\rotor_cutset-1.bin
+    assetPath: Assets\sklop_step_motor_cutset\rotor_cutset-1.bin
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - Solidworks_custom_properties

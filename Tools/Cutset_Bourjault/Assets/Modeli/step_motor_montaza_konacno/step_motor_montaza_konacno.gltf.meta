@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: df1a74d0fd5148c49949f89472725c73
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donji_lezaj_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donji_lezaj_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donji_lezaj_collider-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donji_lezaj_collider-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-6.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-6.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-9.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-9.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-13.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-13.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-3.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-3.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-10.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-10.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-2.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-2.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-4.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-4.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-5.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-5.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-7.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-7.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-8.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-8.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-11.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-11.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-12.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-12.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-15.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-15.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-14.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-14.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Gornje_kuciste_collider_proba-3.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Gornje_kuciste_collider_proba-3.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_sa_colliderima-1_Collider_za_kuciste_gornje-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Vijci_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Vijci_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Stator_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Stator_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornje_kuciste_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornje_kuciste_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Stator_collider-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Stator_collider-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornji_lezaj_collider-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornji_lezaj_collider-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_srednjeg_dijela_vratila-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_srednjeg_dijela_vratila-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_naslon_za_gornji_lezaj-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_naslon_za_gornji_lezaj-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_donjeg_dijela_vratila-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_donjeg_dijela_vratila-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_naslon_za_donji_lezaj-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_naslon_za_donji_lezaj-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_magneti-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_magneti-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_gornjeg_dijela_vratila-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_sa_colliderima-1_Collider_gornjeg_dijela_vratila-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Donje_kuciste_collider_proba-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Donje_kuciste_collider_proba-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-11.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-11.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-14.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-14.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-7.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-7.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-3.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-3.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-8.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-8.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-12.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-12.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-9.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-9.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-5.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-5.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-4.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-4.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-2.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-2.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-13.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-13.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-15.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-15.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-6.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-6.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-10.bin
+    assetPath: Assets\step_motor_montaza_konacno\Donje_kuciste_sa_colliderima-1_Collider_za_kuciste-10.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Vijci_collider-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Vijci_collider-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Rotor_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Rotor_vizualizacija-1.bin
+  - type: 0
+    originalUri: Assets\step_motor_montaza_konacno\Gornji_lezaj_vizualizacija-1.bin
+    assetPath: Assets\step_motor_montaza_konacno\Gornji_lezaj_vizualizacija-1.bin
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - Solidworks_custom_properties
