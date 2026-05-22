@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNITY\\XREN_GEARBOX_025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|c:\\unity\\xren_gearbox_025\\assets\\script\\backtoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backtoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|c:\\unity\\xren_gearbox_025\\assets\\script\\manualrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manualrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|C:\\UNITY\\XREN_GEARBOX_025\\assets\\script\\drillbacktohome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drillbacktohome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNITY\\XREN_GEARBOX_025\\Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|C:\\UNITY\\XREN_GEARBOX_025\\assets\\script\\vrtimercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\vrtimercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|C:\\UNITY\\XREN_GEARBOX_025\\assets\\script\\snaptoclosestposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B38CA0-29D4-A655-E03C-5D77CD57B99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\snaptoclosestposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackToPosition.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\BackToPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BackToPosition.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\BackToPosition.cs",
+              "RelativeToolTip": "Assets\\Script\\BackToPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:41:45.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VRTimerController.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\VRTimerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\VRTimerController.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\VRTimerController.cs",
+              "RelativeToolTip": "Assets\\Script\\VRTimerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:23:37.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointableUnityEventWrapper.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.interaction@74.0.2\\Runtime\\Scripts\\Unity\\PointableUnityEventWrapper.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwJMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:27:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnapToClosestPosition.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\SnapToClosestPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SnapToClosestPosition.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\SnapToClosestPosition.cs",
+              "RelativeToolTip": "Assets\\Script\\SnapToClosestPosition.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:43:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManualRotation.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\ManualRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ManualRotation.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\ManualRotation.cs",
+              "RelativeToolTip": "Assets\\Script\\ManualRotation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:26:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrillBackToHome.cs",
+              "DocumentMoniker": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\DrillBackToHome.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DrillBackToHome.cs",
+              "ToolTip": "C:\\UNITY\\XREN_GEARBOX_025\\Assets\\Script\\DrillBackToHome.cs",
+              "RelativeToolTip": "Assets\\Script\\DrillBackToHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:59:37.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
